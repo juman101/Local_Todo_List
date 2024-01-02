@@ -1,4 +1,6 @@
 # Todo_List
 
-A todo list web app made using React Hooks from scratch
-
+developed a  todo list web app from scratch
+  -> used react hooks 
+   -> tasks are stored in local storage 
+    
